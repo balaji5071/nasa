@@ -38,7 +38,7 @@ const Header = ({ activePage, setActivePage }) => {
 
 const Footer = () => (
     <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} ISS Command Center. All data sourced from public APIs. Not affiliated with NASA.</p>
+        <p>&copy; {new Date().getFullYear()} Made by Chinthapanti Brothers</p>
     </footer>
 );
 

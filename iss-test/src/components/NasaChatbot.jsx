@@ -114,6 +114,7 @@ export default function NasaChatbot() {
                     </button>
                 </div>
             </div>
+            
         </div>
     );
 };
