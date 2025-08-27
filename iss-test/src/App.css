@@ -721,3 +721,10 @@ body {
         padding: 1rem;
     }
 }
+/* Add this to your App.css file */
+
+.logo-image {
+  height: 40px;      /* You can adjust the size */
+  width: 40px;       /* You can adjust the size */
+  margin-right: 12px;  /* Adds some space between the logo and the text */
+}
